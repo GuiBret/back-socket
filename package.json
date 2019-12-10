@@ -1,0 +1,14 @@
+{
+  "name": "back-socket",
+  "version": "1.0.0",
+  "description": "Test backend socket.io",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Guillaume Bretzner",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
